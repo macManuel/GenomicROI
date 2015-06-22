@@ -1,5 +1,4 @@
-dependencies: \
-  /Users/manuel/Developing/programs/GenomicROI/GenomicROI/main.cpp \
+dependencies: /Users/manuel/Developing/programs/GenomicROI/scr/main.cpp \
   /usr/local/include/fs_clap.h \
   /usr/local/include/FastScience/clapArgument.h \
   /usr/local/include/FastScience/clapSingleArgument.h \
@@ -13,7 +12,9 @@ dependencies: \
   /usr/local/include/FastScience/csvFormat.h \
   /usr/local/include/FastScience/gffFormat.h \
   /usr/local/include/FastScience/bedgraphFormat.h \
-  /usr/local/include/fs_io.h /usr/local/include/FastScience/reader.h \
+  /usr/local/include/fs_io.h \
+  /usr/local/include/FastScience/fileChecker.h \
+  /usr/local/include/FastScience/reader.h \
   /usr/local/include/FastScience/csvReader.h \
   /usr/local/include/FastScience/gffReader.h \
   /usr/local/include/FastScience/bedgraphReader.h \
@@ -23,5 +24,5 @@ dependencies: \
   /usr/local/include/FastScience/gffWriter.h \
   /usr/local/include/FastScience/bedgraphWriter.h \
   /usr/local/include/FastScience/wigWriter.h \
-  /Users/manuel/Developing/programs/GenomicROI/GenomicROI/GenomicROI.h \
-  /Users/manuel/Developing/programs/GenomicROI/GenomicROI/GenomicROIPromoter.h
+  /Users/manuel/Developing/programs/GenomicROI/scr/GenomicROI.h \
+  /Users/manuel/Developing/programs/GenomicROI/scr/GenomicROIPromoter.h

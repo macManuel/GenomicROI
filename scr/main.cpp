@@ -43,7 +43,6 @@ int main(int argc, const char * argv[]) {
   // As we now have everything, the program may start its computations
   
   // We need a list to store our gff objects in:
-  //std::list<fs::GffFormat>* gff_list = new std::list<fs::GffFormat>;
   std::list<fs::GffFormat> gff_list;
 
   // Read in the gff file:
@@ -76,7 +75,7 @@ int main(int argc, const char * argv[]) {
   }
   
   // finally write the output file
-  fs::GffWriter gff_output(gff_input.path() + gff_input.file() + "_roi" + gff_input.suffix(),3);
+  fs::GffWriter gff_output(gff_input.path() + gff_input.file() + "_roi" + gff_input.suffix());
   gff_output.writeIntoFile(gff_list);
   std::cout << "Finished!" << std::endl;
   

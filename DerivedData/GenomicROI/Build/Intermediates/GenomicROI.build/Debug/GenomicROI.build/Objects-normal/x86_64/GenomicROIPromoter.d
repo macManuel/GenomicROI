@@ -1,7 +1,7 @@
 dependencies: \
-  /Users/manuel/Developing/programs/GenomicROI/GenomicROI/GenomicROIPromoter.cpp \
-  /Users/manuel/Developing/programs/GenomicROI/GenomicROI/GenomicROIPromoter.h \
-  /Users/manuel/Developing/programs/GenomicROI/GenomicROI/GenomicROI.h \
+  /Users/manuel/Developing/programs/GenomicROI/scr/GenomicROIPromoter.cpp \
+  /Users/manuel/Developing/programs/GenomicROI/scr/GenomicROIPromoter.h \
+  /Users/manuel/Developing/programs/GenomicROI/scr/GenomicROI.h \
   /usr/local/include/fs_formats.h \
   /usr/local/include/FastScience/format.h \
   /usr/local/include/FastScience/csvFormat.h \

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>1657A135-4775-45A4-AD2F-E7147584E52A</string>
+	<key>IDESourceControlProjectName</key>
+	<string>GenomicROI</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>C320434716907FCD62ACDEF19D03D34C7E275968</key>
+		<string>https://github.com/macManuel/GenomicROI.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>GenomicROI.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>C320434716907FCD62ACDEF19D03D34C7E275968</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/macManuel/GenomicROI.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>C320434716907FCD62ACDEF19D03D34C7E275968</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>C320434716907FCD62ACDEF19D03D34C7E275968</string>
+			<key>IDESourceControlWCCName</key>
+			<string>GenomicROI</string>
+		</dict>
+	</array>
+</dict>
+</plist>
